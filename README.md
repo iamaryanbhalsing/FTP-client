@@ -1,4 +1,4 @@
-# FTP Client
+# 📂FTP Client
 
 A simple, interactive command-line FTP client written in Python for transferring files to and from remote web servers.
 
