@@ -93,13 +93,13 @@ Goodbye!
 
 ---
 
-## Security Notes
-
+## ⚠️Security Notes
+```
 FTP is inherently insecure (transmits data in plain text).
 For sensitive data, use SFTP (SSH File Transfer Protocol) instead.
 Never hardcode passwords in scripts.
 Consider using environment variables or a .env file for credentials in automated scripts.
-
+```
 ---
 
 ## Advanced Usage (Scripting)
