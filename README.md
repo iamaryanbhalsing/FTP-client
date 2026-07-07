@@ -18,7 +18,7 @@ A simple, interactive command-line FTP client written in Python for transferring
 - ✅ Error handling and feedback
 
 ---
-## Requirements
+## 🍃Requirements
 
 - Python 3.6 or higher
 - No external dependencies (uses built-in `ftplib`)
