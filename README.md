@@ -3,7 +3,7 @@
 A simple, interactive command-line FTP client written in Python for transferring files to and from remote web servers.
 
 ---
-## Features
+## 🧑‍💻Features
 
 - ✅ Connect to any FTP server
 - ✅ List files and directories (`ls` / `dir`)
