@@ -25,7 +25,7 @@ A simple, interactive command-line FTP client written in Python for transferring
 
 ---
 
-## Installation
+## ⬇️Installation
 
 1. **Download the script**
 
