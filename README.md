@@ -39,7 +39,7 @@ chmod +x ftp_client.py
 ```
 
 ---
-Usage
+## ❔Usage
 ```
 Bash python3 ftp_client.py
 ```
