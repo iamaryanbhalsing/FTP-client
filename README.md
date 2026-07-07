@@ -102,7 +102,7 @@ Consider using environment variables or a .env file for credentials in automated
 ```
 ---
 
-## Advanced Usage (Scripting)
+## ♾️Advanced Usage (Scripting)
 
 ```
 You can also use the FTPClient class programmatically:
@@ -117,7 +117,7 @@ if client.connect("ftp.example.com", "user", "password"):
 ````
 ---
 
-## Future Enhancements
+## 🔮Future Enhancements
 ```
  SFTP support (paramiko)
  GUI version (Tkinter or customtkinter)
